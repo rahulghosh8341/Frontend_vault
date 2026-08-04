@@ -1,0 +1,28 @@
+{
+  "recentFiles": [
+    {
+      "basename": "Clamp",
+      "path": "JavaScript/Problems/Clamp.md"
+    },
+    {
+      "basename": "Fixed Size Grouping",
+      "path": "JavaScript/Patterns/Fixed Size Grouping.md"
+    },
+    {
+      "basename": "Chunk",
+      "path": "JavaScript/Problems/Chunk.md"
+    },
+    {
+      "basename": "Dashboard",
+      "path": "JavaScript/Dashboard.md"
+    },
+    {
+      "basename": "Range Checking",
+      "path": "JavaScript/Patterns/Range Checking.md"
+    }
+  ],
+  "omittedPaths": [],
+  "omittedTags": [],
+  "updateOn": "file-open",
+  "omitBookmarks": false
+}

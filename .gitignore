@@ -1,0 +1,13 @@
+# Workspace (per-device UI state)
+.obsidian/workspace.json
+.obsidian/workspace-mobile.json
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Temporary trash
+.trash/
+
+# Log files
+*.log
