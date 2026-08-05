@@ -9,6 +9,19 @@ tags:
   - execution-context
 ---
 
+
+
+
+
+
+
+
+
+
+
+
+
+
 > [!info]
 > 🟢 Difficulty: Easy
 > 📂 Category: JavaScript Interview Question
