@@ -1,12 +1,12 @@
 {
   "recentFiles": [
     {
-      "basename": "Dashboard",
-      "path": "JavaScript/Dashboard.md"
-    },
-    {
       "basename": "Hoisting",
       "path": "JavaScript/Interview Questions/Hoisting.md"
+    },
+    {
+      "basename": "Dashboard",
+      "path": "JavaScript/Dashboard.md"
     },
     {
       "basename": "Range Checking",
