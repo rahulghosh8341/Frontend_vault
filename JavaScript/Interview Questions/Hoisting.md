@@ -8,7 +8,7 @@ tags:
   - hoisting
   - execution-context
 ---
-Heading
+
 > [!info]
 > 🟢 Difficulty: Easy
 > 📂 Category: JavaScript Interview Question
