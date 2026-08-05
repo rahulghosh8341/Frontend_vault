@@ -10,18 +10,6 @@ tags:
 ---
 
 
-
-
-
-
-
-
-
-
-
-
-
-
 > [!info]
 > 🟢 Difficulty: Easy
 > 📂 Category: JavaScript Interview Question
