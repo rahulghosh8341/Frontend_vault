@@ -1,20 +1,12 @@
 {
-  "commitMessage": "vault backup: {{date}}",
-<<<<<<< HEAD
-  "autoCommitMessage": "Vault: {{date}} ({{numFiles}} files)",
-=======
+  "commitMessage": "Vault: {{date}} ({{numFiles}} files)",
   "autoCommitMessage": "vault backup: {{date}}",
->>>>>>> e4232618f8ab97882bc34ba36acaa52eeb55d84a
   "commitMessageScript": "",
   "commitDateFormat": "YYYY-MM-DD HH:mm:ss",
-  "autoSaveInterval": 10,
+  "autoSaveInterval": 0,
   "autoPushInterval": 0,
   "autoPullInterval": 0,
-<<<<<<< HEAD
   "autoPullOnBoot": true,
-=======
-  "autoPullOnBoot": false,
->>>>>>> e4232618f8ab97882bc34ba36acaa52eeb55d84a
   "autoCommitOnlyStaged": false,
   "disablePush": false,
   "pullBeforePush": true,
@@ -24,20 +16,14 @@
   "listChangedFilesInMessageBody": false,
   "showStatusBar": true,
   "updateSubmodules": false,
-  "syncMethod": "merge",
-  "mergeStrategy": "none",
+  "syncMethod": "rebase",
+  "mergeStrategy": "theirs",
   "customMessageOnAutoBackup": false,
-  "autoBackupAfterFileChange": true,
+  "autoBackupAfterFileChange": false,
   "treeStructure": false,
-<<<<<<< HEAD
   "refreshSourceControl": true,
   "basePath": "",
   "differentIntervalCommitAndPush": false,
-=======
-  "refreshSourceControl": false,
-  "basePath": "",
-  "differentIntervalCommitAndPush": true,
->>>>>>> e4232618f8ab97882bc34ba36acaa52eeb55d84a
   "changedFilesInStatusBar": false,
   "showedMobileNotice": true,
   "refreshSourceControlTimer": 7000,
