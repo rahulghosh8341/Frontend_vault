@@ -17,7 +17,7 @@ Implement a `clamp(value, lower, upper)` function that restricts a number to an 
 
 ## Companies
 
->[ Not specified]
+>[ Not specified] 
 ---
 
 ## Pattern

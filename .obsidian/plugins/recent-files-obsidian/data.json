@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "Dashboard",
+      "path": "JavaScript/Dashboard.md"
+    },
+    {
+      "basename": "README",
+      "path": "README.md"
+    },
+    {
       "basename": "Clamp",
       "path": "JavaScript/Problems/Clamp.md"
     },
@@ -11,10 +19,6 @@
     {
       "basename": "Chunk",
       "path": "JavaScript/Problems/Chunk.md"
-    },
-    {
-      "basename": "Dashboard",
-      "path": "JavaScript/Dashboard.md"
     },
     {
       "basename": "Range Checking",
