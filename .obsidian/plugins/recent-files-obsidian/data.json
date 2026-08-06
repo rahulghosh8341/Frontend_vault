@@ -1,6 +1,7 @@
 {
   "recentFiles": [
     {
+<<<<<<< HEAD
       "basename": "Dashboard",
       "path": "JavaScript/Dashboard.md"
     },
@@ -19,10 +20,26 @@
     {
       "basename": "Chunk",
       "path": "JavaScript/Problems/Chunk.md"
+=======
+      "basename": "Hoisting",
+      "path": "JavaScript/Interview Questions/Hoisting.md"
+>>>>>>> e4232618f8ab97882bc34ba36acaa52eeb55d84a
     },
     {
       "basename": "Range Checking",
       "path": "JavaScript/Patterns/Range Checking.md"
+    },
+    {
+      "basename": "Chunk",
+      "path": "JavaScript/Problems/Chunk.md"
+    },
+    {
+      "basename": "Clamp",
+      "path": "JavaScript/Problems/Clamp.md"
+    },
+    {
+      "basename": "Fixed Size Grouping",
+      "path": "JavaScript/Patterns/Fixed Size Grouping.md"
     }
   ],
   "omittedPaths": [],
