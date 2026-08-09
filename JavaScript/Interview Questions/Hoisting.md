@@ -124,7 +124,7 @@ Assignments happen
 ## My Notes
 
 - 
-- 
+-  Hoisting
 - 
 
 ---
