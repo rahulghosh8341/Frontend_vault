@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Dashboard",
+      "path": "JavaScript/Dashboard.md"
+    },
+    {
       "basename": "Array.prototype.filter",
       "path": "JavaScript/Problems/Array.prototype.filter.md"
     },
@@ -23,10 +27,6 @@
     {
       "basename": "Clamp",
       "path": "JavaScript/Problems/Clamp.md"
-    },
-    {
-      "basename": "Dashboard",
-      "path": "JavaScript/Dashboard.md"
     }
   ],
   "omittedPaths": [],
