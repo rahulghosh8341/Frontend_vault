@@ -123,7 +123,7 @@ Assignments happen
 
 ## My Notes
 
-- Hoisting
+- Hoisting --
 - 
 - 
 
