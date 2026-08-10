@@ -1,12 +1,16 @@
-# Device-specific UI state
+# Device-specific Obsidian state
 .obsidian/workspace.json
+.obsidian/workspace-mobile.json
 
 # Recently opened files
 .obsidian/plugins/recent-files-obsidian/data.json
 
-# Local plugin cache/state
-.obsidian/cache
-.obsidian/workspace-mobile.json
+# Device/plugin-specific settings
+.obsidian/plugins/obsidian-git/data.json
+.obsidian/plugins/gitsync/data.json
+
+# Obsidian cache
+.obsidian/cache/
 
 # OS files
 .DS_Store
