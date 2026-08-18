@@ -96,10 +96,22 @@ export default function fromPairs(pairs) {
 
 ## ⭐ Revision Notes
 
-### Key Takeaways
+### Key Facts
 
-- Object keys overwrite prior values on reassignment.
-- `Object.fromEntries(iterable)` is the inverse of `Object.entries(obj)`.
+- `Object.fromEntries(pairs)` is the native ES2019 inverse of `Object.entries(obj)`.
+- Property assignment `obj[key] = value` overwrites previous entries for duplicate keys automatically.
+- Non-string keys (e.g., numbers, symbols) used as object property keys are converted to strings in standard JS objects unless using a `Map`.
+
+### Common Interview Questions
+
+- What native ES2019 method replaces `fromPairs`? → `Object.fromEntries()`
+- How does key collision work in plain objects vs `Map`? → Plain object keys are converted to strings/symbols and overwritten; `Map` retains key types and insertion order.
+- What is the inverse of `Object.fromEntries()`? → `Object.entries(obj)`
+
+### Interview Takeaways
+
+- Watch out for loop boundary conditions (`i < pairs.length` vs `i <= pairs.length` or `i < pairs.length - 1`).
+- Syntax check: ensure loop headers use semicolons `;`, not commas `,`.
 
 ### Related
 
