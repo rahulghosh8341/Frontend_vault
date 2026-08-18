@@ -10,6 +10,10 @@ concepts:
   - "[[Function Properties]]"
 ---
 
+> [!info]
+> **Difficulty:** 🟢 Easy | **Time:** 5 min
+> Returns the number of parameters a function was declared with — its static arity.
+
 ## Problem
 
 Implement `functionLength(fn)` that returns the number of parameters `fn` was declared with — its **static arity**.
