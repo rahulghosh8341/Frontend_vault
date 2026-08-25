@@ -57,6 +57,7 @@ function debounce(func, wait) {
 ## Problems Using This Pattern
 
 - [[Debounce]]
+- [[Debounce II]]
 
 ## Related Patterns
 
