@@ -1,12 +1,5 @@
-# GreatFrontEnd — Rechecked Learning Order
+# Great Frontend — Learning Order
 
-## Important correction
-
-I rechecked the **full source lists** rather than relying on the previous keyword grouping. The source contains **347 coding questions** and **283 quiz questions**. fileciteturn6file0L12-L18 fileciteturn6file1L1023-L1029
-
-**The phases below are my learning sequence, not GFE official phases.** GFE supplies the native categories/topics/difficulty; I use those plus the actual question title to decide where each question belongs pedagogically. For example, GFE explicitly labels `Debounce` as a JavaScript function and `Todo List` as UI coding. fileciteturn7file0L35-L94
-
-The previous file had genuine problems: some phases were missing and broad keyword matching put unrelated questions together. **Do not use the previous file. Use this one.**
 
 ## Coding sequence
 
@@ -740,9 +733,3 @@ The previous file had genuine problems: some phases were missing and broad keywo
 **Count: 21**
 
 ---
-
-## How I recommend using it
-
-- Do not follow GFE difficulty order blindly. Follow the dependency order above.
-- For `II / III / IV` questions, normally complete the base version before its variants. The source shows this pattern for Debounce, Tabs, Accordion, Image Carousel and Data Table. fileciteturn7file0L50-L64 fileciteturn7file0L215-L259
-- Keep your separate **TypeScript phase** between JavaScript foundations and React; these two supplied lists are not a TypeScript curriculum.
