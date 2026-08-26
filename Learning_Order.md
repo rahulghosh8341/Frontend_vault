@@ -418,10 +418,10 @@ The previous file had genuine problems: some phases were missing and broad keywo
 
 ### 1 — JavaScript core
 
-- [ ] **Explain the concept of "hoisting" in JavaScript**
-- [ ] **What are the differences between JavaScript variables created using \`let\`, \`var\` or \`const\`?**
-- [ ] **What is the difference between \`==\` and \`===\` in JavaScript?**
-- [ ] **What's the difference between a JavaScript variable that is: \`null\`, \`undefined\` or undeclared?**
+- [x] **Explain the concept of "hoisting" in JavaScript**
+- [x] **What are the differences between JavaScript variables created using \`let\`, \`var\` or \`const\`?**
+- [x] **What is the difference between \` == \` and \` === \` in JavaScript?**
+- [x] **What's the difference between a JavaScript variable that is: \`null\`, \`undefined\` or undeclared?**
 - [ ] **Explain the differences on the usage of \`foo\` between \`function foo() {}\` and \`var foo = function() {}\` in JavaScript**
 - [ ] **What's a typical use case for anonymous functions in JavaScript?**
 - [ ] **What are the various ways to create objects in JavaScript?**
@@ -612,8 +612,8 @@ The previous file had genuine problems: some phases were missing and broad keywo
 
 ### 4 — HTML & CSS
 
-- [ ] **Explain your understanding of the box model and how you would tell the browser in CSS to render your layout in different box models.**
-- [ ] **What does \`\* { box-sizing: border-box; }\` do?**
+- [x] **Explain your understanding of the box model and how you would tell the browser in CSS to render your layout in different box models.**
+- [x] **What does \`\* { box-sizing: border-box; }\` do?**
 - [ ] **What is the CSS \`display\` property and can you give a few examples of its use?**
 - [ ] **What is CSS selector specificity and how does it work?**
 - [ ] **What's the difference between \`block\`, \`inline\`, and \`inline-block\`?**
