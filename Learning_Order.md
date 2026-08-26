@@ -5,8 +5,8 @@
 
 ### 0 — HTML/CSS & UI warm-ups
 
-- [ ] **Contact Form**
-- [ ] **Holy Grail**
+- [x] **Contact Form**
+- [x] **Holy Grail**
 - [ ] **Progress Bars**
 - [ ] **Flight Booker**
 - [ ] **Generate Table**
