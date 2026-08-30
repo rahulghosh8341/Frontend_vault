@@ -52,7 +52,7 @@ findIndex(arr, (num) => num > 2, 10); // => -1
 
 ## Companies
 
-- [[Lodash]]
+None
 
 ## Pattern
 

@@ -36,7 +36,7 @@
 - [x] **Drop While**
 - [x] **Fill**
 - [x] **Find Index**
-- [ ] **Find Last Index**
+- [x] **Find Last Index**
 - [x] **From Pairs**
 - [ ] **Get**
 - [ ] **In Range**
@@ -407,7 +407,7 @@
 
 ---
 
-## Quiz sequence
+## Quiz sequence - 
 
 ### 1 — JavaScript core
 
