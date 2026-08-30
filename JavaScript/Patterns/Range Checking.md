@@ -73,3 +73,4 @@ return Math.max(lower, Math.min(value, upper));
 ## Questions Using This Pattern
 
 - [[Clamp]]
+- [[Fill]]

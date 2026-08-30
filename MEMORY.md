@@ -1,0 +1,2 @@
+- [Higher Order Mapping Pattern](.claude/memory/higher-order-mapping.md) — reusable map pattern for element-wise transforms
+- [Array Square Problem](.claude/memory/array-square.md) — Array.prototype.square() implementation

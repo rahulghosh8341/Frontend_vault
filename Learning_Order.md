@@ -28,13 +28,13 @@
 - [x] **Clamp**
 - [x] **Mean**
 - [x] **Number of Arguments**
-- [ ] **Array.prototype.square**
+- [x] **Array.prototype.square**
 - [x] **Chunk**
-- [ ] **Compact**
-- [ ] **Difference**
-- [ ] **Drop Right While**
-- [ ] **Drop While**
-- [ ] **Fill**
+- [x] **Compact**
+- [x] **Difference**
+- [x] **Drop Right While**
+- [x] **Drop While**
+- [x] **Fill**
 - [ ] **Find Index**
 - [ ] **Find Last Index**
 - [x] **From Pairs**
