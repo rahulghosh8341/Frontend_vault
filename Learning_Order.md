@@ -35,7 +35,7 @@
 - [x] **Drop Right While**
 - [x] **Drop While**
 - [x] **Fill**
-- [ ] **Find Index**
+- [x] **Find Index**
 - [ ] **Find Last Index**
 - [x] **From Pairs**
 - [ ] **Get**
