@@ -7,7 +7,7 @@
 
 - [x] **Contact Form**
 - [x] **Holy Grail**
-- [ ] **Progress Bars**
+- [x] **Progress Bars**
 - [ ] **Flight Booker**
 - [ ] **Generate Table**
 - [ ] **Progress Bar**
@@ -24,10 +24,9 @@
 
 - [x] **Flatten**
 - [x] **Array.prototype.filter**
-- [ ] **Table of Contents**
-- [ ] **HTML Serializer**
+- [x] **HTML Serializer**
 - [x] **Clamp**
-- [ ] **Mean**
+- [x] **Mean**
 - [x] **Number of Arguments**
 - [ ] **Array.prototype.square**
 - [x] **Chunk**
@@ -73,6 +72,7 @@
 - [ ] **Test Runner IV**
 - [ ] **Rich Text to HTML**
 - [ ] **Undoable Database II**
+- [ ]  **Table of Contents**
 
 **Count: 51**
 
