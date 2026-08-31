@@ -1,4 +1,4 @@
-# Great Frontend — Learning Order
+		# Great Frontend — Learning Order
 
 
 ## Coding sequence
@@ -38,7 +38,7 @@
 - [x] **Find Index**
 - [x] **Find Last Index**
 - [x] **From Pairs**
-- [ ] **Get**
+- [x] **Get**
 - [ ] **In Range**
 - [ ] **Intersection**
 - [ ] **Max By**
