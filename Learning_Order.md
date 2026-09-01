@@ -39,15 +39,15 @@
 - [x] **Find Last Index**
 - [x] **From Pairs**
 - [x] **Get**
-- [ ] **In Range**
-- [ ] **Intersection**
-- [ ] **Max By**
-- [ ] **Min By**
-- [ ] **Range**
-- [ ] **Range Right**
-- [ ] **Unique Array**
-- [ ] **Array.prototype.at**
-- [ ] **Array.prototype.map**
+- [x] **In Range**
+- [x] **Intersection**
+- [x] **Max By**
+- [x] **Min By**
+- [x] **Range**
+- [x] **Range Right**
+- [x] **Unique Array**
+- [x] **Array.prototype.at**
+- [x] **Array.prototype.map**
 - [ ] **Array.prototype.reduce**
 - [ ] **Cycle**
 - [ ] **Size**

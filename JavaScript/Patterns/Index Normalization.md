@@ -66,6 +66,7 @@ function fill(array, value, start = 0, end = array.length) {
 
 - [[Fill]]
 - [[Clamp]]
+- [[Array.prototype.at]]
 
 ## Related Patterns
 

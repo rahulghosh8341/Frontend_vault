@@ -56,6 +56,7 @@ arr.transform(x => x * x);
 - [[Array.prototype.filter]]
 - [[Flatten]]
 - [[From Pairs]]
+- [[Array.prototype.map]]
 
 ## Related Patterns
 
