@@ -74,3 +74,4 @@ return Math.max(lower, Math.min(value, upper));
 
 - [[Clamp]]
 - [[Fill]]
+- [[In Range]]
