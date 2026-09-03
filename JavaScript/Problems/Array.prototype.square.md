@@ -11,6 +11,9 @@ pattern:
   - "[[Higher Order Mapping]]"
 concepts:
   - "[[Prototypes]]"
+solved: true
+solvedDate: 2026-08-30
+type: coding
 ---
 
 > [!info]

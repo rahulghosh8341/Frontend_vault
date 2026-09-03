@@ -17,6 +17,9 @@ concepts:
   - "[[CSS Transitions]]"
   - "[[requestAnimationFrame]]"
   - "[[Event Loop]]"
+solved: true
+solvedDate: 2026-08-30
+type: coding
 ---
 
 > [!info]

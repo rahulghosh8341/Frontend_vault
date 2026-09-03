@@ -1,3 +1,10 @@
+---
+title: Clamp
+solved: true
+solvedDate: 2026-08-06
+type: coding
+---
+
 # Clamp
 
 > [!info]

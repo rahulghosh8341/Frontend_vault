@@ -13,6 +13,9 @@ pattern:
 concepts:
   - "[[Recursion]]"
   - "[[String Manipulation]]"
+solved: true
+solvedDate: 2026-08-30
+type: coding
 ---
 
 > [!info]

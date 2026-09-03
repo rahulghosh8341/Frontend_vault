@@ -19,6 +19,9 @@ concepts:
   - "[[this]]"
   - "[[call, apply and bind]]"
   - "[[Sparse Arrays]]"
+solved: true
+solvedDate: 2026-08-07
+type: coding
 ---
 
 > [!info] 

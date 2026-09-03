@@ -24,6 +24,9 @@ pattern:
   - "[[DFS Recursion]]"
 concepts:
   - "[[Recursion]]"
+solved: true
+solvedDate: 2026-08-20
+type: coding
 ---
 
 > [!info]

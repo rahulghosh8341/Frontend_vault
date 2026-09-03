@@ -13,6 +13,9 @@ pattern:
 concepts:
   - "[[Array.prototype.slice]]"
   - "[[Predicate]]"
+solved: true
+solvedDate: 2026-08-30
+type: coding
 ---
 
 > [!info]

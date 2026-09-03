@@ -38,6 +38,9 @@ concepts:
   - "[[setTimeout]]"
   - "[[this]]"
   - "[[call, apply and bind]]"
+solved: true
+solvedDate: 2026-08-25
+type: coding
 ---
 
 > [!info]

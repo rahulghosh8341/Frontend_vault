@@ -15,6 +15,9 @@ concepts:
   - "[[Array.prototype.fill]]"
   - "[[Negative Indices]]"
   - "[[Mutation]]"
+solved: true
+solvedDate: 2026-08-30
+type: coding
 ---
 
 > [!info]

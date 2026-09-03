@@ -6,8 +6,7 @@
 const codingTotal = 347;
 const quizTotal = 283;
 
-const pages = dv.pages('"JavaScript/Problems"')
-  .where(p => p.solved === true && p.solvedDate);
+const pages = dv.pages('"JavaScript"').where(p => p.solved === true && p.solvedDate);
 
 const coding = pages.where(p => p.type === "coding").length;
 const quiz = pages.where(p => p.type === "quiz").length;
@@ -26,8 +25,7 @@ dv.table(
 ## 🔥 Study Streak
 
 ```dataviewjs
-const pages = dv.pages('"JavaScript/Problems"')
-  .where(p => p.solved === true && p.solvedDate);
+const pages = dv.pages('"JavaScript"').where(p => p.solved === true && p.solvedDate);
 
 const dateSet = new Set(
   pages.map(p => p.solvedDate.toISODate()).array()
@@ -77,8 +75,7 @@ dv.table(
 ```dataviewjs
 const today = window.moment().format("YYYY-MM-DD");
 
-const pages = dv.pages('"JavaScript/Problems"')
-  .where(p => p.solved === true && p.solvedDate);
+const pages = dv.pages('"JavaScript"').where(p => p.solved === true && p.solvedDate);
 
 const todayPages = pages.where(
   p => p.solvedDate.toISODate() === today
@@ -96,8 +93,7 @@ dv.table(
 ## 📈 Daily Activity
 
 ```dataviewjs
-const pages = dv.pages('"JavaScript/Problems"')
-  .where(p => p.solved === true && p.solvedDate);
+const pages = dv.pages('"JavaScript"').where(p => p.solved === true && p.solvedDate);
 
 const activity = {};
 
@@ -150,7 +146,7 @@ SORT length(file.inlinks) DESC
 
 ```dataview
 TABLE solvedDate AS "Solved Date", type AS "Type"
-FROM "JavaScript/Problems"
+FROM "JavaScript"
 WHERE solved = true AND solvedDate
 SORT solvedDate DESC
 LIMIT 10

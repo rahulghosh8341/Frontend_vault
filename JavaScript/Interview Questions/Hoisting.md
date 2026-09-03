@@ -8,7 +8,7 @@ tags:
   - hoisting
   - execution-context
 solved: true
-solvedDate: 2026-09-03
+solvedDate: 2026-08-09
 type: quiz
 ---
 

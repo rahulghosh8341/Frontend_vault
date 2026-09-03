@@ -19,11 +19,31 @@ Frontend_vault/
 
 ---
 
-## 2. Mandatory Naming Conventions
+## 2. Mandatory Naming Conventions & Frontmatter Tracking
 
 - **Filename** = Concise short alias (e.g., `Function Length.md`, `From Pairs.md`, `var vs let vs const.md`).
 - **Frontmatter `title`** = Full GreatFrontend question text.
 - **Backlinks**: Always use short alias WikiLinks (e.g., `[[Function Length]]`, `[[Array Traversal]]`, `[[Google]]`). Never use full questions in backlinks.
+- **Mandatory Tracking Frontmatter**: Always include `solved`, `solvedDate`, and `type` in the frontmatter so `Dashboard.md` tracks progress automatically:
+
+```yaml
+# For coding challenges (JavaScript/Problems/):
+---
+title: <FULL QUESTION>
+solved: true
+solvedDate: YYYY-MM-DD
+type: coding
+---
+
+# For quiz / interview questions (JavaScript/Interview Questions/):
+---
+title: <FULL QUESTION>
+solved: true
+solvedDate: YYYY-MM-DD
+type: quiz
+---
+- **Learning Order Progress**: Whenever a question note (coding or quiz) is created or completed, automatically check it off in `Learning_Order.md` by changing `- [ ] **Question Name**` to `- [x] **Question Name**`.
+```
 
 ---
 
@@ -31,12 +51,18 @@ Frontend_vault/
 
 - **DO NOT overwrite or rewrite sections provided by the user** (such as their code, `Thought Process`, `Bugs I Made`, `Why This Works`, `Revision Notes`).
 - Use the user's exact text for provided sections.
-- Fill in missing required sections (e.g., frontmatter, `> [!info]` callout, `Key Facts`, `Common Interview Questions`, `Production Considerations`) around the user's provided text.
+- Fill in missing required sections (e.g., frontmatter, `> [!info]` callout, `Key Facts`, `Common Interview Questions`, `Production Considerations`, backlinks) around the user's provided text.
 - Treat the user's solution as the primary solution. Compare with official/alternative solutions without replacing the user's code.
 
 ---
 
-## 4. TWO NOTE TYPES & TEMPLATES (NEVER MERGE)
+## 4. Git & Push Rule
+
+- **Do NOT push to GitHub automatically** unless the user explicitly asks you to push. Commit locally when asked, but wait for explicit instruction to push.
+
+---
+
+## 5. TWO NOTE TYPES & TEMPLATES (NEVER MERGE)
 
 ### TYPE 1 — CODING PROBLEM (Location: `JavaScript/Problems/`)
 
@@ -61,6 +87,9 @@ pattern:
   - "[[Pattern]]"
 concepts:
   - "[[Concept]]"
+solved: true
+solvedDate: YYYY-MM-DD
+type: coding
 ---
 
 > [!info]
@@ -137,6 +166,9 @@ aliases:
 tags:
   - javascript
   - interview
+solved: true
+solvedDate: YYYY-MM-DD
+type: quiz
 ---
 
 ## TL;DR
@@ -176,7 +208,7 @@ tags:
 
 ---
 
-## 5. Pattern Management Rules
+## 6. Pattern Management Rules
 
 1. When a coding problem is introduced, identify its pattern.
 2. If an existing pattern fits (`[[Array Traversal]]`, `[[DFS Recursion]]`, `[[Fixed Size Grouping]]`, `[[Range Checking]]`), backlink to it.
@@ -204,7 +236,7 @@ aliases:
 
 ---
 
-## 6. Execution Instructions for Claude Code CLI
+## 7. Execution Instructions for Claude Code CLI
 
 - Write/edit files directly in the vault (`JavaScript/Problems/`, `JavaScript/Interview Questions/`, `JavaScript/Patterns/`).
 - Use standard GitHub Flavored Markdown and Obsidian callouts (`> [!info]`).

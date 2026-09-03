@@ -11,7 +11,7 @@ tags:
   - undefined
   - scope
 solved: true
-solvedDate: 2026-09-03
+solvedDate: 2026-08-26
 type: quiz
 ---
 

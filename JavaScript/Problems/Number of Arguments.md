@@ -8,6 +8,9 @@ languages:
   - JavaScript
 concepts:
   - "[[Function Properties]]"
+solved: true
+solvedDate: 2026-08-19
+type: coding
 ---
 
 > [!info]

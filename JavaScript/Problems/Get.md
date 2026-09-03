@@ -14,6 +14,9 @@ concepts:
   - "[[Object Property Access]]"
   - "[[Path Normalization]]"
   - "[[Falsy Values]]"
+solved: true
+solvedDate: 2026-09-01
+type: coding
 ---
 
 > [!info]

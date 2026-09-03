@@ -9,6 +9,9 @@ languages:
 concepts:
   - "[[this]]"
   - "[[call, apply and bind]]"
+solved: true
+solvedDate: 2026-08-20
+type: coding
 ---
 
 > [!info]

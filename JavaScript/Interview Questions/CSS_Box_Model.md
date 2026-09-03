@@ -6,6 +6,9 @@ tags:
   - css
   - interview
   - box-model
+solved: true
+solvedDate: 2026-08-26
+type: quiz
 ---
 
 > [!info]

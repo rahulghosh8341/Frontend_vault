@@ -7,6 +7,9 @@ tags:
   - interview
   - box-model
   - box-sizing
+solved: true
+solvedDate: 2026-08-26
+type: quiz
 ---
 
 > [!info]

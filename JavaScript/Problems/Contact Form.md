@@ -16,6 +16,9 @@ pattern:
   - "[[HTML Form Submission]]"
 concepts:
   - "[[HTML Forms]]"
+solved: true
+solvedDate: 2026-08-27
+type: coding
 ---
 
 > [!info]

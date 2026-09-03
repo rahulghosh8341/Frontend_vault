@@ -15,6 +15,9 @@ pattern:
 concepts:
   - "[[CSS Flexbox]]"
   - "[[CSS Grid]]"
+solved: true
+solvedDate: 2026-08-27
+type: coding
 ---
 
 > [!info]

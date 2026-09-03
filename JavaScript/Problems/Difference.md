@@ -14,6 +14,9 @@ concepts:
   - "[[Set]]"
   - "[[NaN Equality]]"
   - "[[Sparse Arrays]]"
+solved: true
+solvedDate: 2026-08-30
+type: coding
 ---
 
 > [!info]

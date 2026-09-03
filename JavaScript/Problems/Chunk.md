@@ -1,3 +1,10 @@
+---
+title: Chunk
+solved: true
+solvedDate: 2026-08-04
+type: coding
+---
+
 # Chunk
 
 > [!info]

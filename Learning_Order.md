@@ -48,12 +48,12 @@
 - [x] **Unique Array**
 - [x] **Array.prototype.at**
 - [x] **Array.prototype.map**
-- [ ] **Array.prototype.reduce**
-- [ ] **Cycle**
-- [ ] **Size**
-- [ ] **Sum**
-- [ ] **Array.prototype.concat**
-- [ ] **Count By**
+- [x] **Array.prototype.reduce**
+- [x] **Cycle**
+- [x] **Size**
+- [x] **Sum**
+- [x] **Array.prototype.concat**
+- [x] **Count By**
 - [ ] **Group By**
 - [ ] **Intersection By**
 - [ ] **Intersection With**

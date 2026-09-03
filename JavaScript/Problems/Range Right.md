@@ -12,7 +12,7 @@ concepts:
   - "[[Rest Parameters]]"
   - "[[Array Methods]]"
 solved: true
-solvedDate: 2026-09-03
+solvedDate: 2026-09-01
 type: coding
 ---
 

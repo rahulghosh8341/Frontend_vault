@@ -13,6 +13,9 @@ pattern:
 concepts:
   - "[[Array.prototype.findIndex]]"
   - "[[Predicate]]"
+solved: true
+solvedDate: 2026-08-31
+type: coding
 ---
 
 > [!info]
