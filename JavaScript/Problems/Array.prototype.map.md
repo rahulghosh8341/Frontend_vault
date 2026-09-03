@@ -19,6 +19,9 @@ concepts:
   - "[[Function.prototype.call]]"
   - "[[Sparse Arrays]]"
   - "[[Higher Order Functions]]"
+solved: true
+solvedDate: 2026-09-03
+type: coding
 ---
 
 > [!info]

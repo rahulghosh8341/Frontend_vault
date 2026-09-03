@@ -10,6 +10,9 @@ tags:
   - 
   - undefined
   - scope
+solved: true
+solvedDate: 2026-09-03
+type: quiz
 ---
 
 > [!info]

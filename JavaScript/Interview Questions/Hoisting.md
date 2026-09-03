@@ -7,6 +7,9 @@ tags:
   - interview
   - hoisting
   - execution-context
+solved: true
+solvedDate: 2026-09-03
+type: quiz
 ---
 
 > [!info]

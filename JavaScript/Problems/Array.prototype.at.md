@@ -12,6 +12,9 @@ concepts:
   - "[[this]]"
   - "[[Negative Indices]]"
   - "[[Bounds Checking]]"
+solved: true
+solvedDate: 2026-09-03
+type: coding
 ---
 
 > [!info]

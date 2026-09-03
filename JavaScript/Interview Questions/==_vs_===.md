@@ -8,6 +8,9 @@ tags:
   - interview
   - equality
   - type-coercion
+solved: true
+solvedDate: 2026-09-03
+type: quiz
 ---
 
 > [!info]

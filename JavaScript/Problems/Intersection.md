@@ -11,6 +11,9 @@ pattern:
 concepts:
   - "[[Set]]"
   - "[[Rest Parameters]]"
+solved: true
+solvedDate: 2026-09-03
+type: coding
 ---
 
 > [!info]

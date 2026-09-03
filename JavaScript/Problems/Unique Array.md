@@ -11,6 +11,9 @@ pattern:
 concepts:
   - "[[Set]]"
   - "[[Array Methods]]"
+solved: true
+solvedDate: 2026-09-03
+type: coding
 ---
 
 > [!info]
