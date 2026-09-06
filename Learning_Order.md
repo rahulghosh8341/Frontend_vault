@@ -54,24 +54,17 @@
 - [x] **Sum**
 - [x] **Array.prototype.concat**
 - [x] **Count By**
-- [ ] **Group By**
-- [ ] **Intersection By**
-- [ ] **Intersection With**
-- [ ] **Is Empty**
-- [ ] **Limit**
-- [ ] **Turtle**
-- [ ] **Union By**
-- [ ] **Compact II**
-- [ ] **Conforms To**
-- [ ] **Text Search**
-- [ ] **Test Runner**
-- [ ] **Text Search II**
-- [ ] **Test Runner II**
-- [ ] **Test Runner III**
-- [ ] **Undoable Database**
-- [ ] **Test Runner IV**
+- [x] **Group By**
+- [x] **Intersection By**
+- [x] **Intersection With**
+- [x] **Is Empty**
+- [x] **Limit**
+- [x] **Union By**
+- [x] **Compact II**
+- [x] **Conforms To**
+- [x] **Text Search**
+- [x] **Text Search II**
 - [ ] **Rich Text to HTML**
-- [ ] **Undoable Database II**
 - [ ]  **Table of Contents**
 
 **Count: 51**
@@ -86,6 +79,7 @@
 - [ ] **Curry**
 - [x] **Function Length**
 - [ ] **Make Counter**
+- [ ] **Turtle**
 - [x] **Function.prototype.apply**
 - [ ] **Function.prototype.call**
 - [ ] **Once**
@@ -95,8 +89,14 @@
 - [ ] **Curry II**
 - [ ] **Memoize II**
 - [ ] **Curry III**
+- [ ] **Test Runner**
+- [ ] **Test Runner II**
+- [ ] **Test Runner III**
+- [ ]  **Test Runner IV**
+- [ ]  **Undoable Database**
+- [ ]  **Undoable Database II**
 
-**Count: 17**
+**Count: 22**
 
 ### 3 — JS objects, recursion, data transformation & architecture
 
