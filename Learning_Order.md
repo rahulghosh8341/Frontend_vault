@@ -1,4 +1,4 @@
-		# Great Frontend — Learning Order
+
 
 
 ## Coding sequence
@@ -415,10 +415,10 @@
 - [x] **What are the differences between JavaScript variables created using \`let\`, \`var\` or \`const\`?**
 - [x] **What is the difference between \` == \` and \` === \` in JavaScript?**
 - [x] **What's the difference between a JavaScript variable that is: \`null\`, \`undefined\` or undeclared?**
-- [ ] **Explain the differences on the usage of \`foo\` between \`function foo() {}\` and \`var foo = function() {}\` in JavaScript**
-- [ ] **What's a typical use case for anonymous functions in JavaScript?**
-- [ ] **What are the various ways to create objects in JavaScript?**
-- [ ] **What is a closure in JavaScript, and how/why would you use one?**
+- [x] **Explain the differences on the usage of \`foo\` between \`function foo() {}\` and \`var foo = function() {}\` in JavaScript**
+- [x] **What's a typical use case for anonymous functions in JavaScript?**
+- [x] **What are the various ways to create objects in JavaScript?**
+- [x] **What is a closure in JavaScript, and how/why would you use one?**
 - [ ] **What is the definition of a higher-order function in JavaScript?**
 - [ ] **What is \`'use strict';\` (strict mode) in JavaScript for?**
 - [ ] **What are JavaScript polyfills for?**

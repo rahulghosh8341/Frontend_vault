@@ -11,8 +11,8 @@ tags:
   - undefined
   - scope
 solved: true
-solvedDate: 2026-08-26
 type: quiz
+solvedDate: 2026-08-26
 ---
 
 > [!info]
