@@ -419,7 +419,7 @@
 - [x] **What's a typical use case for anonymous functions in JavaScript?**
 - [x] **What are the various ways to create objects in JavaScript?**
 - [x] **What is a closure in JavaScript, and how/why would you use one?**
-- [ ] **What is the definition of a higher-order function in JavaScript?**
+- [x] **What is the definition of a higher-order function in JavaScript?**
 - [ ] **What is \`'use strict';\` (strict mode) in JavaScript for?**
 - [ ] **What are JavaScript polyfills for?**
 - [ ] **Why is it, in general, a good idea to leave the global JavaScript scope of a website as-is and never touch it?**
@@ -502,9 +502,9 @@
 
 ### 1 — JavaScript core: functions, OOP & patterns
 
-- [ ] **Explain how \`this\` works in JavaScript**
-- [ ] **What's the difference between \`.call\` and \`.apply\` in JavaScript?**
-- [ ] **Explain \`Function.prototype.bind\` in JavaScript**
+- [x] **Explain how \`this\` works in JavaScript**
+- [x] **What's the difference between \`.call\` and \`.apply\` in JavaScript?**
+- [x] **Explain \`Function.prototype.bind\` in JavaScript**
 - [ ] **What advantage is there for using the JavaScript arrow syntax for a method in a constructor?**
 - [ ] **Explain how prototypal inheritance works in JavaScript**
 - [ ] **Difference between: \`function Person(){}\`, \`const person = Person()\`, and \`const person = new Person()\` in JavaScript?**
