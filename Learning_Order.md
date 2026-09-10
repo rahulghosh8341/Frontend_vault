@@ -64,17 +64,17 @@
 - [x] **Conforms To**
 - [x] **Text Search**
 - [x] **Text Search II**
-- [ ] **Rich Text to HTML**
+- [x] **Rich Text to HTML**
 - [ ]  **Table of Contents**
 
 **Count: 51**
 
 ### 2 — JS functions, closures, this & OOP
 
-- [ ] **Classnames**
-- [ ] **Classnames II**
+- [x] **Classnames**
+- [x] **Classnames II**
 - [ ] **Backbone Model**
-- [ ] **Compose**
+- [x] **Compose**
 - [ ] **Memoize**
 - [ ] **Curry**
 - [x] **Function Length**
