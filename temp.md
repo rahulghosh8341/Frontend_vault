@@ -121,14 +121,11 @@ That's the foundation of closures.
 ### Helps with
 
 ```text
-Make Counter
-Memoize
+
+
 Curry
-Once
 Singleton
-Make Counter II
 Curry II
-Memoize II
 Curry III
 ```
 

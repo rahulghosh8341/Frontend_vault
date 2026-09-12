@@ -10,12 +10,34 @@ This repository is an **Obsidian Knowledge Base** for frontend interview prepara
 Frontend_vault/
 ├── JavaScript/
 │   ├── Companies/           # Company notes (e.g., Google.md, Meta.md) with Dataview queries
-│   ├── Interview Questions/ # Conceptual quiz notes (e.g., Hoisting.md, var vs let vs const.md)
+│   ├── Interview Questions/ # Conceptual quiz notes organized by Learning Order section subfolders:
+│   │   ├── 1 — JavaScript core/
+│   │   ├── 1 — JavaScript core — functions, OOP & patterns/
+│   │   ├── 2 — Async JavaScript & networking/
+│   │   ├── 3 — DOM, events & browser APIs/
+│   │   ├── 4 — HTML & CSS/
+│   │   ├── 5 — React fundamentals/
+│   │   ├── 6 — React advanced & internals/
+│   │   └── 7 — Testing, security, performance & tooling/
 │   ├── Patterns/            # Reusable pattern notes (e.g., Array Traversal.md, DFS Recursion.md)
-│   ├── Problems/            # Coding problem notes (e.g., Clamp.md, Flatten.md, Function Length.md)
+│   ├── Problems/            # Coding problem notes organized by Learning Order section subfolders:
+│   │   ├── 0 — HTML-CSS & UI warm-ups/
+│   │   ├── 1 — JS fundamentals, arrays & utilities/
+│   │   ├── 2 — JS functions, closures, this & OOP/
+│   │   ├── 3 — JS objects, recursion, data transformation & architecture/
+│   │   ├── 4 — Async JavaScript, promises & concurrency/
+│   │   ├── 5 — DOM, events & browser APIs/
+│   │   ├── 6 — React hooks & state/
+│   │   ├── 7 — React-UI fundamentals/
+│   │   ├── 8 — Advanced UI, accessibility & complex state/
+│   │   ├── 10 — Algorithms — arrays, strings, linked lists & basic trees/
+│   │   └── 11 — Algorithms — trees, graphs, grids & advanced patterns/
 │   ├── Concepts/            # Core JS concept notes
 │   └── Dashboard.md         # Dataview overview dashboard
 ```
+
+> [!IMPORTANT]
+> **Always refer to `Learning_Order.md`** to identify which section a new question belongs to, and place the note directly in that section's folder under `JavaScript/Problems/<Section Folder>/` (for coding) or `JavaScript/Interview Questions/<Section Folder>/` (for quiz). Also include `section: "<Section Folder>"` in the frontmatter.
 
 ---
 
@@ -24,20 +46,22 @@ Frontend_vault/
 - **Filename** = Concise short alias (e.g., `Function Length.md`, `From Pairs.md`, `var vs let vs const.md`).
 - **Frontmatter `title`** = Full GreatFrontend question text.
 - **Backlinks**: Always use short alias WikiLinks (e.g., `[[Function Length]]`, `[[Array Traversal]]`, `[[Google]]`). Never use full questions in backlinks.
-- **Mandatory Tracking Frontmatter**: Always include `solved`, `solvedDate`, and `type` in the frontmatter so `Dashboard.md` tracks progress automatically:
+- **Mandatory Tracking Frontmatter**: Always include `section`, `solved`, `solvedDate`, and `type` in the frontmatter so `Dashboard.md` tracks progress automatically:
 
 ```yaml
-# For coding challenges (JavaScript/Problems/):
+# For coding challenges (JavaScript/Problems/<Section Folder>/):
 ---
 title: <FULL QUESTION>
+section: "<Section Name>"
 solved: true
 solvedDate: YYYY-MM-DD
 type: coding
 ---
 
-# For quiz / interview questions (JavaScript/Interview Questions/):
+# For quiz / interview questions (JavaScript/Interview Questions/<Section Folder>/):
 ---
 title: <FULL QUESTION>
+section: "<Section Name>"
 solved: true
 solvedDate: YYYY-MM-DD
 type: quiz
@@ -64,7 +88,7 @@ type: quiz
 
 ## 5. TWO NOTE TYPES & TEMPLATES (NEVER MERGE)
 
-### TYPE 1 — CODING PROBLEM (Location: `JavaScript/Problems/`)
+### TYPE 1 — CODING PROBLEM (Location: `JavaScript/Problems/<Section Folder>/`)
 
 For coding challenges (e.g., `Flatten`, `Chunk`, `Clamp`, `Function Length`, `Function.prototype.apply`, polyfills).
 
@@ -87,6 +111,7 @@ pattern:
   - "[[Pattern]]"
 concepts:
   - "[[Concept]]"
+section: "<Section Name>"
 solved: true
 solvedDate: YYYY-MM-DD
 type: coding
@@ -151,7 +176,7 @@ type: coding
 
 ---
 
-### TYPE 2 — INTERVIEW / QUIZ QUESTION (Location: `JavaScript/Interview Questions/`)
+### TYPE 2 — INTERVIEW / QUIZ QUESTION (Location: `JavaScript/Interview Questions/<Section Folder>/`)
 
 For theory/conceptual questions (e.g., `Hoisting`, `var vs let vs const`, `Event Loop`, `Closures`, `Execution Context`).
 
@@ -166,6 +191,7 @@ aliases:
 tags:
   - javascript
   - interview
+section: "<Section Name>"
 solved: true
 solvedDate: YYYY-MM-DD
 type: quiz
@@ -238,6 +264,6 @@ aliases:
 
 ## 7. Execution Instructions for Claude Code CLI
 
-- Write/edit files directly in the vault (`JavaScript/Problems/`, `JavaScript/Interview Questions/`, `JavaScript/Patterns/`).
+- Write/edit files directly in the vault (`JavaScript/Problems/<Section Folder>/`, `JavaScript/Interview Questions/<Section Folder>/`, `JavaScript/Patterns/`).
 - Use standard GitHub Flavored Markdown and Obsidian callouts (`> [!info]`).
 - Do not run unnecessary terminal commands unless writing or updating vault files.

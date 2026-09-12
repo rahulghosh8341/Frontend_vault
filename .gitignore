@@ -21,3 +21,10 @@ Thumbs.db
 
 # Log files
 *.log
+
+# Personal/local Claude configuration
+.claude/settings.local.json
+CLAUDE.local.md
+
+# Claude runtime/personal data
+.claude/projects/

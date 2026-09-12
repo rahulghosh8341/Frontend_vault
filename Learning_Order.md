@@ -75,20 +75,20 @@
 - [x] **Classnames II**
 - [ ] **Backbone Model**
 - [x] **Compose**
-- [ ] **Memoize**
-- [ ] **Curry**
+- [x] **Memoize**
+- [x] **Curry**
 - [x] **Function Length**
-- [ ] **Make Counter**
+- [x] **Make Counter**
 - [ ] **Turtle**
 - [x] **Function.prototype.apply**
 - [ ] **Function.prototype.call**
-- [ ] **Once**
+- [x] **Once**
 - [ ] **Singleton**
 - [ ] **Function.prototype.bind**
-- [ ] **Make Counter II**
-- [ ] **Curry II**
-- [ ] **Memoize II**
-- [ ] **Curry III**
+- [x] **Make Counter II**
+- [x] **Curry II**
+- [x] **Memoize II**
+- [x] **Curry III**
 - [ ] **Test Runner**
 - [ ] **Test Runner II**
 - [ ] **Test Runner III**
