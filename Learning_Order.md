@@ -73,17 +73,17 @@
 
 - [x] **Classnames**
 - [x] **Classnames II**
-- [ ] **Backbone Model**
+- [x] **Backbone Model**
 - [x] **Compose**
 - [x] **Memoize**
 - [x] **Curry**
 - [x] **Function Length**
 - [x] **Make Counter**
-- [ ] **Turtle**
+- [x] **Turtle**
 - [x] **Function.prototype.apply**
-- [ ] **Function.prototype.call**
+- [x] **Function.prototype.call**
 - [x] **Once**
-- [ ] **Singleton**
+- [x] **Singleton**
 - [ ] **Function.prototype.bind**
 - [x] **Make Counter II**
 - [x] **Curry II**

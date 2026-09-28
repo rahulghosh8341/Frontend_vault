@@ -1,0 +1,32 @@
+{
+  "items": [
+    {
+      "type": "group",
+      "ctime": 1789331204950,
+      "items": [],
+      "title": "Dailies"
+    },
+    {
+      "type": "group",
+      "ctime": 1789385604758,
+      "items": [
+        {
+          "type": "file",
+          "ctime": 1789385585208,
+          "path": "JavaScript/Dashboard.md"
+        },
+        {
+          "type": "file",
+          "ctime": 1789385585208,
+          "path": "Learning_Order.md"
+        },
+        {
+          "type": "file",
+          "ctime": 1789385585208,
+          "path": "temp.md"
+        }
+      ],
+      "title": "September 14, 2026 5:03 PM"
+    }
+  ]
+}

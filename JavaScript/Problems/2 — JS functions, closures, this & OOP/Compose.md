@@ -12,7 +12,7 @@ pattern:
 concepts:
   - "[[Function Composition]]"
   - "[[Closure]]"
-section: "2 — JS functions, closures, this & OOP"
+section: 2 — JS functions, closures, this & OOP
 solved: true
 solvedDate: 2026-09-11
 type: coding
