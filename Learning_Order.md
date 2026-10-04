@@ -65,7 +65,7 @@
 - [x] **Text Search**
 - [x] **Text Search II**
 - [x] **Rich Text to HTML**
-- [ ]  **Table of Contents**
+- [x]  **Table of Contents**
 
 **Count: 51**
 
@@ -84,17 +84,17 @@
 - [x] **Function.prototype.call**
 - [x] **Once**
 - [x] **Singleton**
-- [ ] **Function.prototype.bind**
+- [x] **Function.prototype.bind**
 - [x] **Make Counter II**
 - [x] **Curry II**
 - [x] **Memoize II**
 - [x] **Curry III**
-- [ ] **Test Runner**
-- [ ] **Test Runner II**
-- [ ] **Test Runner III**
-- [ ]  **Test Runner IV**
-- [ ]  **Undoable Database**
-- [ ]  **Undoable Database II**
+- [x] **Test Runner**
+- [x] **Test Runner II**
+- [x] **Test Runner III**
+- [x]  **Test Runner IV**
+- [x]  **Undoable Database**
+- [x]  **Undoable Database II**
 
 **Count: 22**
 
@@ -104,20 +104,20 @@
 - [ ] **List Format**
 - [ ] **Deep Equal**
 - [ ] **Data Selection**
-- [ ] **Type Utilities**
+- [x] **Type Utilities**
 - [ ] **Deep Omit**
 - [ ] **Squash Object**
-- [ ] **Unsquash Object**
+- [x] **Unsquash Object**
 - [ ] **JSON.stringify**
 - [ ] **JSON.stringify II**
 - [ ] **Object Map**
-- [ ] **Type Utilities II**
+- [x] **Type Utilities II**
 - [ ] **Camel Case Keys**
 - [ ] **Console Log History**
 - [ ] **Data Merging**
 - [ ] **Deep Set**
-- [ ] **Template Engine**
-- [ ] **Undo / Redo Manager**
+- [x] **Template Engine**
+- [x] **Undo / Redo Manager**
 - [ ] **Assert Lite**
 - [ ] **Class Variance Authority**
 - [ ] **Deep Map**
@@ -125,7 +125,7 @@
 - [ ] **Schema Validator**
 - [ ] **Spreadsheet**
 - [ ] **Styled Text Ranges**
-- [ ] **Superjson**
+- [x] **Superjson**
 - [ ] **Deep Merge**
 - [ ] **Deep Set II**
 - [ ] **JSON Patch**
@@ -134,7 +134,7 @@
 - [ ] **Schema Validator II**
 - [ ] **Spreadsheet II**
 - [ ] **Styled Text Ranges II**
-- [ ] **Template Engine II**
+- [x] **Template Engine II**
 - [ ] **Mini Object-relational Mapper II**
 - [ ] **Object Update II**
 - [ ] **Deep Clone II**
@@ -144,9 +144,9 @@
 - [ ] **Spreadsheet III**
 - [ ] **Styled Text Ranges III**
 - [ ] **Styled Text Ranges IV**
-- [ ] **Superjson II**
+- [x] **Superjson II**
 - [ ] **Drizzle Query Builder II**
-- [ ] **Undo / Redo Manager II**
+- [x] **Undo / Redo Manager II**
 - [ ] **Drizzle Query Builder III**
 
 **Count: 48**
